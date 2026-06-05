@@ -1,0 +1,51 @@
+make,model,mileage_km,registration_date,body_type,transmission,primary_fuel,actual_price,predicted_price,abs_error
+Audi,Q8,39.0,2025-10-01,SUV,Automatic,Super Plus 98,279980.0,116309,163671
+Aston Martin,Vantage,3089.0,2024-12-01,Coupe,Automatic,Super 95,274950.0,116349,158601
+Mercedes-Benz,S 680,21500.0,2024-05-01,Sedan,Automatic,Regular/Benzine 91,229990.0,76407,153583
+Mercedes-Benz,AMG GT,12500.0,2024-11-01,Coupe,Automatic,Super Plus 98,254990.0,125947,129043
+BMW,M4,1000.0,2025-07-01,Coupe,Automatic,Regular/Benzine 91,255900.0,130130,125770
+Porsche,996,25400.0,2000-12-01,Coupe,Manual,Regular/Benzine 91,189000.0,77070,111930
+Porsche,992,23206.0,2019-08-01,Coupe,Automatic,Super 95,244900.0,136858,108042
+BMW,M8,20000.0,2025-03-01,Sedan,Automatic,Super 95,199895.0,112049,87846
+Porsche,992,6415.0,2023-10-01,Coupe,Automatic,Super Plus 98,285900.0,199739,86161
+Porsche,718,3120.0,2024-03-01,Coupe,Automatic,Super 95,79900.0,151809,71909
+BMW,120,1.0,2025-05-01,Sedan,Automatic,Diesel,43000.0,114164,71164
+Porsche,911,57400.0,2018-06-01,Coupe,Automatic,Regular/Benzine 91,189900.0,120149,69751
+Porsche,992,58500.0,2020-08-01,Coupe,Automatic,Super Plus 98,184900.0,118020,66880
+Porsche,991,24980.0,2019-09-01,Coupe,Automatic,Regular/Benzine 91,224890.0,158431,66459
+Porsche,992,17125.0,2022-09-01,Coupe,Automatic,Regular/Benzine 91,119890.0,185620,65730
+BMW,M4,10.0,2025-01-01,Coupe,Automatic,Super 95,217234.0,152076,65158
+Porsche,Cayman,6600.0,2022-08-01,Coupe,Automatic,Regular/Benzine 91,169900.0,105502,64398
+Mercedes-Benz,AMG GT,17266.0,2024-03-01,Coupe,Automatic,Regular/Benzine 91,185900.0,121770,64130
+Porsche,991,32928.0,2016-04-01,Coupe,Automatic,Super 95,204900.0,140797,64103
+Porsche,Panamera,9900.0,2024-08-01,Sedan,Automatic,Super Plus 98,195850.0,134187,61663
+Aston Martin,DBX,6990.0,2025-01-01,SUV,Automatic,Regular/Benzine 91,219006.0,160160,58846
+Aston Martin,DBX,12500.0,2025-03-01,SUV,Automatic,Regular/Benzine 91,229888.0,171558,58330
+Porsche,911,52222.0,2020-06-01,Coupe,Automatic,Regular/Benzine 91,190000.0,133504,56496
+Aston Martin,Cygnet,11394.0,2011-12-01,Hatchback,Manual,Super 95,47500.0,101982,54482
+Porsche,Taycan,0.0,2023-12-01,Sedan,Automatic,Electricity,86900.0,140801,53901
+Alfa Romeo,Quadrifoglio,53000.0,2019-09-01,SUV,Automatic,Super 95,98000.0,44170,53830
+Aston Martin,DBX,26751.0,2022-06-01,SUV,Automatic,Super 95,199900.0,146583,53317
+Porsche,997,53622.0,2010-01-01,Coupe,Manual,Regular/Benzine 91,129800.0,76825,52975
+Mercedes-Benz,S 580,53.0,2025-09-01,Sedan,Automatic,Super 95,204950.0,152513,52437
+Audi,RS5,10.0,2025-07-01,Sedan,Automatic,Regular/Benzine 91,113500.0,63634,49866
+Porsche,992,25.0,2025-07-01,Coupe,Automatic,Regular/Benzine 91,229500.0,278130,48630
+BMW,iX,37800.0,2022-03-01,SUV,Automatic,Electricity,99900.0,52063,47837
+Porsche,Cayenne,15300.0,2022-07-01,Coupe,Automatic,Regular/Benzine E10 91,159800.0,111982,47818
+BMW,X5,41085.0,2024-11-01,SUV,Automatic,Super Plus E10 98,114950.0,68657,46293
+Porsche,911,57000.0,2009-08-01,Coupe,Manual,Regular/Benzine 91,149500.0,103538,45962
+BMW,i8,27000.0,2017-02-01,Coupe,Automatic,Regular/Benzine 91,105900.0,59973,45927
+Porsche,991,13574.0,2015-01-01,Coupe,Automatic,Super 95,139950.0,184189,44239
+Porsche,Cayman,5277.0,2025-06-01,Coupe,Automatic,Super 95,184990.0,140787,44203
+Porsche,992,19694.0,2022-05-01,Coupe,Automatic,Super 95,214950.0,171765,43185
+Audi,Q8,975.0,2025-08-01,SUV,Automatic,Super 95,159950.0,116883,43067
+Porsche,Panamera,3049.0,2025-07-01,Sedan,Automatic,Super 95,109750.0,152107,42357
+Porsche,Panamera,6410.0,2024-06-01,Sedan,Automatic,Super E10 95,185900.0,143718,42182
+Porsche,Cayman,13866.0,2024-02-01,Coupe,Automatic,Super E10 95,74450.0,116267,41817
+Mercedes-Benz,S 580,21893.0,2024-03-01,Sedan,Automatic,Regular/Benzine 91,89964.0,130597,40633
+Porsche,718,30946.0,2019-11-01,Coupe,Manual,Super Plus 98,57718.0,98238,40520
+Porsche,991,31900.0,2013-11-01,Coupe,Automatic,Regular/Benzine 91,154900.0,114391,40509
+Mercedes-Benz,S 450,15281.0,2024-06-01,Sedan,Automatic,Diesel,153900.0,113569,40331
+Mercedes-Benz,S 600,9900.0,2025-08-01,Sedan,Automatic,Super E10 95,160990.0,120790,40200
+Porsche,911,11660.0,2020-04-01,Coupe,Automatic,Regular/Benzine 91,139900.0,179822,39922
+BMW,M3,4188.0,2022-07-01,Sedan,Automatic,Regular/Benzine 91,69450.0,109318,39868
