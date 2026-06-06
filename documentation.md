@@ -136,7 +136,7 @@ If a third block is selected, it is documented and graded separately as extra wo
 
 > Full results in [`train_ml.py`](train_ml.py) — leaderboard saved to `model_leaderboard.csv`
 
-![Model Comparison](model_comparison.png)
+![Model Comparison](plots/model_comparison.png)
 
 #### 2A.5 Evaluation and Error Analysis
 - Metrics used: RMSE, MAE, R² (test set, 20% holdout); 5-fold cross-validation R²
@@ -159,8 +159,8 @@ If a third block is selected, it is documented and graded separately as extra wo
   - `model_price_encoded` is dominant (71.2% importance); all other features combined explain only 29%
   > See `worst_predictions.csv`
 
-![Predicted vs Actual](predicted_vs_actual.png)
-![Residuals](residuals.png)
+![Predicted vs Actual](plots/predicted_vs_actual.png)
+![Residuals](plots/residuals.png)
 
 #### 2A.6 Integration with Other Block(s)
 - Inputs received from other block(s):
@@ -296,8 +296,8 @@ If a third block is selected, it is documented and graded separately as extra wo
 | Sedan | 0.43 | 0.44 | 0.43 | 101 |
 | **Overall accuracy** | | | **0.605** | **471** |
 
-![Confusion Matrix](cv_confusion_matrix.png)
-![Training Curve](cv_training_curve.png)
+![Confusion Matrix](plots/cv_confusion_matrix.png)
+![Training Curve](plots/cv_training_curve.png)
 
 **CLIP (zero-shot, qualitative):**
 - SUV: 99.7% confidence on test SUV image — strong separation
@@ -334,24 +334,24 @@ If a third block is selected, it is documented and graded separately as extra wo
 **Screenshot 1 — Body Type Classification (CV Block)**
 Upload a vehicle image → CLIP and EfficientNet-B0 classify the body type; dropdown auto-fills with CLIP's prediction.
 
-![CV Body Type Classification](Screenshot1.png)
+![CV Body Type Classification](Screenshots/Screenshot1.png)
 
 **Screenshot 2 & 3 — Full Price Prediction (ML + NLP Block, Prompt V1)**
 All fields filled (BMW X5, 2019, 85,000 km, Diesel, Automatic) → engineered features computed live → price estimated → NLP explanation generated (Prompt V1).
 
-![Full Price Prediction Prompt V1](Screenshot2.png)
+![Full Price Prediction Prompt V1](Screenshots/Screenshot2.png)
 
-![Full Price Prediction Prompt V1 Detail](Screenshot3.png)
+![Full Price Prediction Prompt V1 Detail](Screenshots/Screenshot3.png)
 
 **Screenshot 4 — NLP Prompt Comparison (Prompt V2)**
 Same vehicle details, Prompt V2 activated → more analytical explanation covering body type, age/mileage impact, and market segment. Demonstrates the NLP prompt comparison.
 
-![NLP Prompt V2 Explanation](Screenshot4.png)
+![NLP Prompt V2 Explanation](Screenshots/Screenshot4.png)
 
 **Screenshot 5 — Manual Body Type Selection**
 Without an image, the user can manually select the body type (e.g. Coupe) via dropdown → price estimated for that body type. Demonstrates the app works with details only (no image required).
 
-![Manual Body Type Selection](Screenshot5.png)
+![Manual Body Type Selection](Screenshots/Screenshot5.png)
 
 ---
 
