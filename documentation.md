@@ -93,7 +93,7 @@ If a third block is selected, it is documented and graded separately as extra wo
 
 | Entry | Source name or link | Type | Size | Role in this block |
 | --- | --- | --- | --- | --- |
-| 1 | AutoScout24 Car Listings (`cars_project.csv`) | Structured CSV | 8,257 rows × 8 columns (after cleaning) | Training data for price prediction model |
+| 1 | [AutoScout24 Car Listings](https://www.kaggle.com/datasets/clkmuhammed/autoscout24-car-listings-dataset) (`cars_project.csv`) | Structured CSV | 8,257 rows × 8 columns (after cleaning) | Training data for price prediction model |
 | 2 | CV model output (`body_type`) | Derived feature | 1 string per prediction | Input feature at inference time |
 | 3 | User slider/dropdown inputs | Structured UI inputs | 6 values per prediction | Raw inputs for feature engineering at inference |
 
@@ -250,7 +250,7 @@ If a third block is selected, it is documented and graded separately as extra wo
 
 | Entry | Source name or link | Type | Size | Role in this block |
 | --- | --- | --- | --- | --- |
-| 1 | Car Body Style Dataset (darshan1504, Kaggle) | JPEG images in class folders | 2,341 images, 4 classes | Training data for EfficientNet-B0 body type classifier |
+| 1 | [Cars Body Type Dataset](https://www.kaggle.com/datasets/ademboukhris/cars-body-type-cropped) (ademboukhris, Kaggle) | JPEG images in class folders | 2,341 images, 4 classes | Training data for EfficientNet-B0 body type classifier |
 | 2 | openai/clip-vit-base-patch32 (Hugging Face Hub) | Pre-trained vision-language model | 400M image-text pairs (pre-training) | Zero-shot body type classification (primary model) |
 
 #### 2C.2 Preprocessing and Augmentation
